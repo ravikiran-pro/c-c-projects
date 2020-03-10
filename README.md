@@ -7,4 +7,4 @@ Snake game Created with c programming -Basic Demonstration
     gcc -o snake snake.c
     snake.exe
     
-<img src="working.gif" alt="check your internet connection">
+<img src="working1.gif" alt="check your internet connection">
