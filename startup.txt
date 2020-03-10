@@ -1,9 +1,16 @@
-This is a console based snake game providing the basic model of snake game works
-snake moves in left,right,top and bottom direction
-Every normal food X consists of three points
-Every special food $ consists of fourteen points
+
+
+This is a console based snake game providing the basic model of how snake game works
+
+>> snake moves in left,right,top and bottom direction
+>> Every normal food X consists of three points
+>> Every special food $ consists of fourteen points
 
 Notes
 ******
-	Snake cannot be moved behind the walls
-	Snake should not touch itself
+	[] Snake cannot be moved behind the walls
+	[] Snake should not touch itself
+	[] Delete startup.txt to avoid this message everytime
+						
+Press Enter to continue ..
+
